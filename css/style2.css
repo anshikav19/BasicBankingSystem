@@ -1,0 +1,99 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body
+{
+    font-family: sans-serif;
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 0;
+
+}
+.navbar
+{
+    background-image: linear-gradient(to right,#e2b7f7, #89A6E3);
+    padding: 0 !important; 
+    position: sticky;
+}
+.navbar-brand img
+{
+    height: 200px;
+    padding-left: 20px;
+}
+.navbar-nav li
+{
+    padding: 10px ;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 500; 
+}
+
+#banner
+{
+    background-image: linear-gradient(to right,#e2b7f7, #89A6E3);
+    color: #fff;
+    padding-top: 0%; 
+    position: right;
+}
+
+.transferimg
+{
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -300px!important;
+    position: absolute;
+    z-index: -1;
+    
+   
+}
+.cText
+{
+    color: #ed91c4;
+    margin-left:700px!important;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+
+}
+.cText2
+{
+    color: #ed91c4;
+    margin-left:700px!important;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 600;
+    
+
+}
+.cText3
+{
+    color: #c9538f;
+    margin-left:450px!important;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    
+
+}
+.wrapper
+{
+    margin-left: 780px!important;
+    position: absolute;
+    z-index: 1;
+    font-size: 20px;
+    font-weight: 600;
+    color: #c9538f;
+
+}
